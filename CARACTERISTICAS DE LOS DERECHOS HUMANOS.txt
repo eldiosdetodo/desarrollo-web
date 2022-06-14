@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Proyecto transversal educacion financiera</title>
+<button type="button" class="https://www.un.org/es/about-us/universal-declaration-of-human-rights">INICIO</button>
+</head>
+<body bgcolor="FFF933" text="black">
+</head>
+<h2>LOS DERECHOS HUMANOS</h2>
+<td> <img colspan=""  align="right" width="440" height="450" src=ddhh-250x180.jpg></td> 
+
+
+</ul>
+<h2>LAS PRINCIPALES CARACTERISTICAS DE LOS DERECHOS HUMANOS</h2>
+
+<p>Como hemos concretado, los derechos humanos son fundamentales para que vivamos 
+en un entorno donde reinen la justicia y la libertad. De ahí sus características, que pueden resumirse en 10 aspectos claves:</p>
+
+<p>1-Los derechos humanos son derechos intrínsecos, es decir, todas las personas los tienen por el hecho de nacer.<p>
+
+<p>2-Son derechos irrenunciables. Nadie puede renunciar a ellos, ni siquiera por propia voluntad, y por eso mismo son también intransferibles.<p>
+
+<p>3-Son derechos inalienables, por lo que nadie los puede suprimir bajo ninguna circunstancia ni se puede despojar de ellos a ninguna persona.<p>
+
+<p>4-Los derechos humanos son derechos universales. Esta característica es fundamental, y significa que todas las personas tienen los
+ mismos derechos sin discriminación alguna y que se aplican a cualquier persona de cualquier parte del mundo. <p>
+
+<p>5-Son derechos interdependientes. La estrecha relación entre derechos o grupo de derechos también es clave, ya que el avance de uno 
+favorece el progreso de los demás, mientras que la privación de uno perjudica al ejercicio del resto. <p>
+
+<p>6-Son derechos indivisibles. Todos los derechos humanos merecen la misma atención y tienen la misma vigencia. Ni se puede prescindir de uno, 
+ni se puede disfrutar de uno a costa de otro, porque todos ellos se encuentran unidos y forman parte de un todo, de una misma construcción.<p>
+
+<p>7-Son derechos progresivos. Una vez conseguido un avance en el ejercicio y la tutela de un derecho humano, ya no se podrá eliminar, limitar 
+ni restringir posteriormente. Al contrario, se debe seguir progresando en su cumplimiento, porque la propia filosofía de los derechos humanos 
+obliga a su constante mejoría.<p>
+
+<p>8-Son derechos imprescriptibles. Los derechos humanos no prescriben, no tienen fecha de caducidad por ningún motivo.<p>
+
+<p>9-Son derechos inderogables, aunque esta característica admite matices. Algunas normas internacionales, 
+regionales o nacionales de derechos humanos contemplan la posibilidad de que esa inderogabilidad no afecte por igual a todos los derechos y 
+legitiman a los Estados para que, de forma excepcional, puedan derogar algunos.<p>
+
+<p>10-Son derechos en constante evolución: la ‘tercera generación’. La Declaración Universal de 1948 fue la conclusión de un proceso evolutivo y 
+el resultado de un momento histórico concreto, por lo que su contenido se sigue viendo como mejorable, tanto en la descripción de los principios recogidos 
+como con la posible inclusión de nuevos derechos. De hecho, se ha ido actualizando parcialmente con posteriores declaraciones temáticas, fueran o no 
+acompañadas de convenciones, acuerdos o pactos para hacerlos vinculantes.<p>
+
+<p>Las violaciones de derechos humanos van contra nuestras libertades y atacan la dignidad humana. La sociedad debe conocer y respetar las 
+características fundamentales de los derechos humanos para convertir este mundo en un lugar más justo para todas las personas.
+Son universales, porque corresponden a todas las personas sin excepción. Son interdependientes, porque todos los derechos humanos se encuentran 
+vinculados y requieren de su respeto y protección recíproca.<p>
+
+
+
+<h2>SEBASTIAN ANDRES RODRIGUEZ SALGADO 10°02</h2>
+</body>
+</html>

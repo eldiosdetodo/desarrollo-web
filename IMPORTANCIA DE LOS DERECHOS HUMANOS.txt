@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Proyecto transversal educacion financiera</title>
+<button type="button" class="https://www.un.org/es/about-us/universal-declaration-of-human-rights">INICIO</button>
+</head>
+<body bgcolor="#4FFF33" text="black">
+</head>
+<h2>LOS DERECHOS HUMANOS</h2>
+<td> <img colspan=""  align="right" width="440" height="450" src=ddhh-250x180.jpg></td> 
+
+
+</ul>
+
+<h2>IMPORTANCIA DE LOS DERECHOS HUMANOS</h2>
+
+<p>Los Derechos Humanos son bases históricas que fomentan un mundo mejor en el futuro. Por ejemplo, para muchos especialistas y analíticos no es 
+casualidad que no haya ocurrido otro conflicto bélico global desde la Declaración Universal de los Derechos Humanos en 1948.
+Y es que estos derechos sientan precedentes y generan compromiso entre los Estados, los gobernantes y la ciudadanía, promoviendo el 
+respeto, la tolerancia y el bienestar general.</p>
+
+<p>Es por ello que seguir desarrollando iniciativas de DDHH y defenderlos en distintos ámbitos y circunstancias resulta clave para lograr que su 
+legado histórico se mantenga y, así, disfrutemos de una sociedad mundial pacífica y estable en el futuro en la que veamos menos personas en situación 
+de vulnerabilidad.<p>
+
+<p>los Derechos Humanos son los reflejos de los estándares mínimos que se requieren para que las personas vivan con dignidad y tengan la posibilidad de desarrollarse satisfactoriamente.
+Si tomamos como referencia la Declaración Universal de los DDHH, estos estándares no son más que aspectos básicos como la educación, la libertad, el trabajo remunerado, 
+la integridad física y la igualdad ante la justicia, así como la libre expresión y autodefinición.<p>
+
+<p>Esto quiere decir que garantizar los DDHH es también garantizar que los ciudadanos contarán con los recursos y elementos indispensables para la vida cotidiana y el desarrollo personal, 
+académico, laboral e intelectual. A su vez, fomentar el bienestar y el desarrollo en la sociedad permite que seamos personas capaces de promover los cambios y las innovaciones que demanda el mundo.<p>
+
+<p>En conclusión, los Derechos Humanos generan un círculo virtuoso, que beneficia al individuo para que luego esta pueda realizar aportes a la colectividad.<p>
+
+<p>Desde hace siglos, la humanidad valora la democracia como la mejor forma de convivencia, pues a través de ella todos somos libres de pensar y expresarnos de manera genuina, 
+siempre y cuando no irrespetemos a otros y vulneremos sus derechos. Además, esta forma de organización política y social permite que exista igualdad ante la ley, libertad de 
+poderes y, en general, un punto de equilibrio en la sociedad que permita el desarrollo satisfactorio de todos de acuerdo a competencias, habilidades y esfuerzos.<p>
+
+<p>Los Derechos Humanos intentan lograr que no se amplíe cada vez más la brecha entre los sectores poblacionales más privilegiados y los más vulnerables.
+Por ello establecen parámetros básicos que definen una vida digna y que posibilite el desarrollo social, personal e intelectual, como la responsabilidad 
+de los Estados de ofrecer alternativas de educación gratuita, al menos, en los niveles de instrucción elementales.<p>
+
+
+
+<h2>SEBASTIAN ANDRES RODRIGUEZ SALGADO 10°02</h2>
+</body>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Proyecto transversal educacion financiera</title>
+<button type="button" class="https://www.un.org/es/about-us/universal-declaration-of-human-rights">INICIO</button>
+</head>
+<body bgcolor="#33E6FF" text="black">
+</head>
+<h2>LOS DERECHOS HUMANOS</h2>
+<td> <img colspan=""  align="right" width="440" height="450" src=ddhh-250x180.jpg></td> 
+
+
+</ul>
+<h2>QUE SON?</h2>
+
+<p>Los derechos humanos son aquellas condiciones instrumentales que le permiten a la persona su realización.
+En consecuencia subsume aquellas libertades, facultades, instituciones o reivindicaciones relativas a bienes primarios o básicos
+​que incluyen a toda persona, por el simple hecho de su condición humana, para la garantía de una vida digna, «sin distinción alguna de raza, 
+color, sexo, idioma, religión, opinión política o de cualquier otra índole, origen nacional o social, posición económica o cualquier otra condición.</p>
+
+<p>Los Derechos Humanos son el conjunto de prerrogativas sustentadas en la dignidad humana, cuya realización efectiva resulta indispensable para el 
+desarrollo integral de la persona. Este conjunto de prerrogativas se encuentra establecido dentro del orden jurídico nacional, 
+en nuestra Constitución Política, tratados internacionales y las leyes. Los derechos humanos son derechos inherentes a todos los seres humanos, 
+sin distinción alguna de nacionalidad, lugar de residencia, sexo, origen nacional o étnico, color, religión, lengua, o cualquier otra condición. 
+Todos tenemos los mismos derechos humanos, sin discriminación alguna. Estos derechos son interrelacionados, interdependientes e indivisibles.<p>
+
+<p>Los derechos humanos universales están a menudo contemplados en la ley y garantizados por ella, a través de los tratados, el derecho internacional 
+consuetudinario, los principios generales y otras fuentes del derecho internacional. El derecho internacional de los derechos humanos establece las obligaciones 
+que tienen los gobiernos de tomar medidas en determinadas situaciones, o de abstenerse de actuar de determinada forma en otras, a fin de promover y proteger 
+los derechos humanos y las libertades fundamentales de los individuos o grupos. El respeto hacia los derechos humanos de cada persona es un deber de todos. Todas las autoridades en el ámbito de sus competencias, tienen la obligación de promover, 
+respetar, proteger y garantizar los derechos humanos consignados en favor del individuo.<p>
+
+<p>Los derechos humanos son inalienables. No deben suprimirse, salvo en determinadas situaciones y según las debidas garantías procesales. Por ejemplo, se puede restringir 
+el derecho a la libertad si un tribunal de justicia dictamina que una persona es culpable de haber cometido un delito.
+
+Los derechos humanos son iguales y no discriminatorios: La no discriminación es un principio transversal en el derecho internacional de derechos humanos. 
+Está presente en todos los principales tratados de derechos humanos y constituye el tema central de algunas convenciones internacionales como la Convención Internacional 
+sobre la Eliminación de todas las Formas de Discriminación Racial y la Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer.<p>
+
+<li>Los derechos humanos incluyen tanto derechos como obligaciones. Los Estados asumen las obligaciones y los deberes, en virtud del derecho internacional, de respetar, proteger y realizar los derechos humanos.
+La obligación de respetarlos significa que los Estados deben abstenerse de interferir en el disfrute de los derechos humanos, o de limitarlos. La obligación de protegerlos exige que los Estados impidan los abusos de 
+los derechos humanos contra individuos y grupos. La obligación de realizarlos significa que los Estados deben adoptar medidas positivas para facilitar el disfrute de los derechos humanos básicos. En el plano individual, 
+así como debemos hacer respetar nuestros derechos humanos, también debemos respetar los derechos humanos de los demás.<li>
+
+<li>Principio de Interdependencia: Consiste en que cada uno de los derechos humanos se encuentran ligados unos a otros, de tal manera que el reconocimiento de uno de ellos , 
+así como su ejercicio, implica necesariamente que se respeten y protejan múltiples derechos que se encuentran vinculados.<li>
+
+<li>Principio de Progresividad: Constituye una obligación del Estado para asegurar el progreso en el desarrollo constructivo de los derechos humanos, al mismo tiempo, 
+implica una prohibición para el Estado respecto a cualquier retroceso de los derechos. El Estado debe proveer las condiciones más óptimas de disfrute de los derechos y no disminuir ese nivel logrado.<li>
+
+<li>El principio de la universalidad. Todas las personas son titulares de todos los derechos humanos. Dicho principio se encuentra estrechamente relacionado a 
+la igualdad y no discriminación. No obstante, para lograr la igualdad real se debe atender a las circunstancias o necesidades específicas de las personas.<li>
+
+<li>Principio de interdependencia e indivisibilidad: Todos los derechos humanos, sean éstos los derechos civiles y políticos, como el derecho a la vida, 
+la igualdad ante la ley y la libertad de expresión; los derechos económicos, sociales y culturales, como el derecho al trabajo, la seguridad social y la educación; o los derechos colectivos, 
+como los derechos al desarrollo y la libre determinación, todos son derechos indivisibles, interrelacionados e interdependientes. <li>
+
+
+
+<h2>SEBASTIAN ANDRES RODRIGUEZ SALGADO 10°02</h2>
+</body>
+</html>

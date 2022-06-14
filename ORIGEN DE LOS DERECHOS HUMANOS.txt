@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Proyecto transversal educacion financiera</title>
+<button type="button" class="https://www.un.org/es/about-us/universal-declaration-of-human-rights">INICIO</button>
+</head>
+<body bgcolor="#FF3633" text="black">
+</head>
+<h2>LOS DERECHOS HUMANOS</h2>
+<td> <img colspan=""  align="right" width="440" height="450" src=ddhh-250x180.jpg></td> 
+
+
+</ul>
+
+<h2>ORIGEN</h2>
+
+<p>Existe un importante debate sobre el origen cultural de los derechos humanos. Generalmente se considera que tienen su raíz
+en la cultura occidental moderna, pero existen al menos dos posturas principales más.Algunos afirman que todas las culturas 
+poseen visiones de dignidad que se plasman en forma de derechos humanos, y hacen referencia a proclamaciones como la Carta de Mandén,
+de 1222, declaración fundacional del Imperio de Malí. No obstante, ni en japonés​ ni en sánscrito clásico,​ por ejemplo, existió el término
+derecho hasta que se produjeron contactos con la cultura occidental, ya que estas culturas han puesto tradicionalmente el acento en los deberes.</p>
+
+<p>Los derechos humanos se proclamaron por vez primera durante la Revolución Francesa de 1789, bajo el título “Declaración de los derechos del hombre en sociedad”; 
+aunque en realidad fueron el primer paso en firme de un largo proceso cultural que tiene raíces en las distintas concepciones de la “dignidad humana” arraigada en 
+las culturas occidentales y orientales.<p>
+
+<p>La Revolución Estadounidense, posteriormente, siguió los lineamientos de “libertad, igualdad, fraternidad” de los revolucionarios franceses, en pro de fundar una nación
+más igualitaria, si bien la esclavitud de los negros seguía siendo un ítem pendiente de la lista.
+El nacimiento de la Organización de las Naciones Unidas (ONU), al término de la Segunda Guerra Mundial, dio paso a la Declaración Universal de los Derechos Humanos (1948), 
+un intento de sentar las bases de un orden social mundial.<p>
+
+<p>Posteriormente se aprobaron diversos tratados en la materia, como la Convención Europea de los Derechos Humanos (1950), los Pactos Internacionales de Derechos Humanos (1966)
+y la Convención Americana sobre los Derechos Humanos (1969). Tratados más recientes abordan temas específicos como los derechos del niño y el adolescente, o de las personas con 
+discapacidad.<p>
+
+
+
+
+
+<h2>SEBASTIAN ANDRES RODRIGUEZ SALGADO 10°02</h2>
+</body>
+</html>
